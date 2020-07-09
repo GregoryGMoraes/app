@@ -8,7 +8,9 @@ O objetivo deste documento é facilitar a compreenção do escopo do projeto e d
 
 ### INSTALAÇÃO LOCAL
 • Instale node.js, react-native usando `npm install` e o android studio;
+
 • Em seu servidor local baixe o projeto usando `git clone`;
+
 • Em seu terminal para rodar o app no android studio use o comando `react-native run-android`;
 
 ### BIBLIOTECAS DO PROJETO
