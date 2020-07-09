@@ -7,7 +7,7 @@ Um serviço que integra os profissionais com os clientes de forma fácil e rápi
 O objetivo deste documento é facilitar a compreenção do escopo do projeto e de como funciona.
 
 ### INSTALAÇÃO LOCAL
-• Instale node.js, react-native e o android studio;
+• Instale node.js, react-native usando `npm install` e o android studio;
 • Em seu servidor local baixe o projeto usando `git clone`;
 • Em seu terminal para rodar o app no android studio use o comando `react-native run-android`;
 
