@@ -6,12 +6,20 @@ Um serviço que integra os profissionais com os clientes de forma fácil e rápi
 ### OBJETIVO
 O objetivo deste documento é facilitar a compreenção do escopo do projeto e de como funciona.
 
-### INSTALAÇÃO LOCAL
+### PRIMEIRO PASSOS
 • Instale node.js, react-native e o android studio;
 
 • Em seu servidor local baixe o projeto usando `git clone`;
 
-• Em seu terminal para rodar o app no android studio use o comando `react-native run-android`;
+• Abra o Android Studio vá em configure, entre em AVD Manager escolha um AVD e clique em `run`;
+
+• Após feito isso o emulador vai inicializar, volte ao terminal;
+
+• Execute o comando `npm install` para instalar o node modules;
+
+• Após feito isso volte ao seu terminal e use o comando `react-native run-android`;
+
+• Esse comando irá inicializar o app no emulador e rodar;
 
 ### BIBLIOTECAS DO PROJETO
     "@react-native-community/async-storage": "^1.11.0",
